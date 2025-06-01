@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "934574754666",
+    "project_id": "talkshak-ae5fd",
+    "storage_bucket": "talkshak-ae5fd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934574754666:android:06ed345cdaeac69c93b313",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlV0_qKndDW4Jv9ACmq9m-nT0q3Zft1XQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
